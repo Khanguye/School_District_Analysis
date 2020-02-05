@@ -127,7 +127,7 @@ Before Remove
 
 After Remove
 
-![SchoolTypelLess](Images/SchoolTypelLess.png)
+![SchoolTypelLess](Images/SchoolTypeLess.png)
 
 - Thomas High is a charter school. Therefore, all metric numbers in the charter school type are impacted because the 9th grade score is removed
  
