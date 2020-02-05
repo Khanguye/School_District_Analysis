@@ -22,7 +22,7 @@ After Remove
 ![DistrictSummaryLess](Images/DistrictSummaryLess.png)
 
 - The Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing metrics of the district are descreased about one (1) and  Average Reading Scores are very close (different 0.02).
-The descreased numbers in metrics says than Thomas School 9th grade scores of Math and Reading are higher than the district average scores, and Average Reading Scores might be the same level or lower than the district level. 
+The descreased numbers in metrics says that Thomas School 9th grade scores of Math and Reading are higher than the district average scores, and Average Reading Scores might be the same level or lower than the district level. 
 However, the descrease is not large because the 9th grade students of Thomas school is small number to compare to the whole district students.
 - The Total Schools, Total Students and Total Budget are not affected by the scores so they are the same
 
@@ -40,8 +40,7 @@ After Remove
 
 - The School Type, Total Students, Total School Budget, Per Student Budget are the same before and after because they are not affected by scores
 - The Average Math and Reading scores of Thomas High are not much different before and after. It says that 9th grade scores are the same average level score of other grades
-- %Passing Math , Reading, and Overall of Thomas High are significant drop. It was about 25% different. The 9th grade student scores plays a significant role to increase the number of students who pass both Math and Reading level of the district.
-And the 9th grade's Math and Reading scores are distributed evenly around the school Math and Reading average scores so that the % passing are so high for before removing the 9th grade scores.
+- The %Passing Math , Reading, and Overall of Thomas High are significant drop. It was about 25% different. The 9th grade student scores plays a significant role in the % passing numbers. All numbers of "Before remove" chart says that the 9th grade's Math and Reading scores are distributed evenly around the school Math and Reading average scores of the school so that the % passing are so high compare to the numbers of "After remove". There might have some problem in the 9th grade scores of Thomas High.
 
 3- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
@@ -82,7 +81,7 @@ After Remove
 
 ![MathSchoolByGradLess](Images/MathSchoolByGradLess.png)
 
-- Math scores averages of Thomas High's 9th grade average is NaN. However, the performing other grades still are comparable and analized with other schools.
+- Math scores averages of Thomas High's 9th grade average is NaN. However, the performing other grades still are comparable and analyzed with other schools.
 
 #### The average Reading score received by students in each grade level at each school
 
@@ -94,7 +93,7 @@ After Remove
 
 ![ReadingSchoolByGradLess](Images/ReadingSchoolByGradLess.png)
 
-- Reading scores averages of Thomas High's 9th grade average is NaN. However, the performing other grades still are comparable and analized with other schools.
+- Reading scores averages of Thomas High's 9th grade average is NaN. However, the performing other grades still are comparable and analyzed with other schools.
 
 #### The school performance based on the spending per student
 
