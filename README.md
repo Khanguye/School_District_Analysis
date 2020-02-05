@@ -1,17 +1,17 @@
-#School District Analysis
 
-###Backgroud: 
+# School District Analysis
+
+### Backgroud 
 
 The grades of the ninth graders at Thomas High School have been changed.
 
 - Replace the ninth-grade math and reading scores from Thomas High School.
 - Keep all other data associated with the ninth-grade students and Thomas High School intact.
 
-###Redo the School District Data Analysis
+### Redo the School District Data Analysis
 
 1- How is the district summary affected?
-
-####The district and school summary
+#### The district and school summary
 ***Before Remove***
 ![DistrictSummaryFull](images/DistrictSummaryFull.png)
 ***After Remove***
@@ -24,7 +24,7 @@ However, the descrease is not large because the 9th grade students of Thomas sch
 
 2- How is the school summary affected?
 
-####School Summary
+#### School Summary
 ***Before Remove***
 ![SchoolPerformFull](images/SchoolPerformFull.png)
 ***After Remove***
@@ -37,7 +37,7 @@ And the 9th grade's Math and Reading scores are distributed evenly around the sc
 
 3- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
-####The top 5 performing schools
+#### The top 5 performing schools
 ***Before Remove***
 ![Top5Full](images/Top5Full.png)
 ***After Remove***
@@ -46,7 +46,7 @@ And the 9th grade's Math and Reading scores are distributed evenly around the sc
 - Thomas school performance is in the second position of the top 5 performing schools before remove. However, Thomas school performance is not in the top 5 performing schools after remove. 
 It says that Thomas High's 9th grade scores plays a significant role to place Thomas High in the top 5 performance school. 
 
-####the bottom 5 performing schools
+#### the bottom 5 performing schools
 ***Before Remove***
 ![Top5Full](images/Top5Full.png)
 ***After Remove***
@@ -56,7 +56,7 @@ It says that Thomas High's 9th grade scores plays a significant role to place Th
 
 4- How does replacing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
 
-####The average Math score received by students in each grade level at each school
+#### The average Math score received by students in each grade level at each school
 ***Before Remove***
 ![MathSchoolByGradFull](images/MathSchoolByGradFull.png)
 ***After Remove***
@@ -64,7 +64,7 @@ It says that Thomas High's 9th grade scores plays a significant role to place Th
 
 - Math scores averages of Thomas High's 9th grade average is NaN. However, the performing other grades still are comparable and analized with other schools.
 
-####The average Reading score received by students in each grade level at each school
+#### The average Reading score received by students in each grade level at each school
 ***Before Remove***
 ![eadingSchoolByGradFull](images/ReadingSchoolByGradFull.png)
 ***After Remove***
@@ -72,7 +72,7 @@ It says that Thomas High's 9th grade scores plays a significant role to place Th
 
 - Reading scores averages of Thomas High's 9th grade average is NaN. However, the performing other grades still are comparable and analized with other schools.
 
-####The school performance based on the spending per student
+#### The school performance based on the spending per student
 ***Before Remove***
 ![SpendingPerStudentFull](images/SpendingPerStudentFull.png)
 ***After Remove***
@@ -80,7 +80,7 @@ It says that Thomas High's 9th grade scores plays a significant role to place Th
 
 - Thomas High is the range $630-$644 per student of the district budget. Therefore, all metric numbers in the range are impacted because the 9th grade score is removed
 
-####The school performance based on the size of the school
+#### The school performance based on the size of the school
 ***Before Remove***
 ![SizeSchoolFull](images/SizeSchoolFull.png)
 ***After Remove***
@@ -88,7 +88,7 @@ It says that Thomas High's 9th grade scores plays a significant role to place Th
 
 - Thomas High is the size medium (1000-2000) students among the district school. Therefore, all metric numbers in the medium size are impacted because the 9th grade score is removed
 
-###The school performance based on the type of school
+#### The school performance based on the type of school
 ***Before Remove***
 ![SchoolTypeFull](images/SchoolTypeFull.png)
 ***After Remove***
